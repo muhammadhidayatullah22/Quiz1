@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz 1</string>
+    <string name="nama">Nama</string>
+    <string name="muhammad_hidayatullah_quiz_1">Muhammad Hidayatullah Quiz 1</string>
+    <string name="gold">GOLD</string>
+    <string name="silver">SILVER</string>
+    <string name="biasa">BIASA</string>
+    <string name="kode_barang">kode barang</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="kb">Kode Barang</string>
+    <string name="tipe_pelanggan">Tipe Pelanggan</string>
+    <string name="proses">Proses</string>
+</resources>
